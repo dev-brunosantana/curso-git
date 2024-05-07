@@ -1,3 +1,1 @@
-- Modificando o README.md
-- Modificando novamente o README.md
-- Modificando novamente, novamente o README.md
+- Modificando novamente, novamente, novamente o README.md
